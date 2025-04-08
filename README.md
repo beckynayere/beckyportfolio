@@ -7,6 +7,7 @@ This repository contains a beautiful, responsive personal portfolio built using 
 
 
 
+
 ## Features
 
 - **Modern Design:** Clean, SaaS-inspired design with a glass-effect navbar and sleek animations.
